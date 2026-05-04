@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm wish-b</h1>
 <h3 align="center">A beginner programmer trying to make simple ideas into working code 💡➡️💻</h3>
-# 💫 About Me:
+# 💫 About Me:<br>
 🔭 I’m currently working on 👉 [Rock Paper Scissors](https://github.com/wish-b/Rock-Paper-Scissors.git)<br>🌱 I’m currently learning **Python**<br>💬 Ask me about **💡 Beginner coding tips**<br>⚡ Fun fact **😄 I enjoy turning small ideas into working programs**
 
 
@@ -10,9 +10,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=wish-b&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=wish-b&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=wish-b&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wish-b&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
