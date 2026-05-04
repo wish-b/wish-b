@@ -1,11 +1,22 @@
 <h1 align="center">Hi 👋, I'm wish-b</h1>
 <h3 align="center">A beginner programmer trying to make simple ideas into working code 💡➡️💻</h3>
+<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=wish-b&color=blue)" alt="nav343" /> </p>
+
+
 # 💫 About Me:<br>
-🔭 I’m currently working on 👉 [Rock Paper Scissors](https://github.com/wish-b/Rock-Paper-Scissors.git)<br>🌱 I’m currently learning **Python**<br>💬 Ask me about **💡 Beginner coding tips**<br>⚡ Fun fact **😄 I enjoy turning small ideas into working programs**
+- 🔭 I’m currently working on [Rock Paper Scissors](https://github.com/wish-b/Rock-Paper-Scissors.git)
+
+- 🌱 I’m currently learning **Python**
+
+-  👨‍💻 All of my projects are available at [https://github.com/wish-b](https://github.com/wish-b )
+
+- 💬 Ask me about **💡 Beginner coding tips**
+
+- ⚡ Fun fact **😄 I enjoy turning small ideas into working programs**
 
 
 # 💻 Tech Stack:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=wish-b&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=wish-b&theme=dark&hide_border=false)<br/>
