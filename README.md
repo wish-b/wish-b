@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm wish-b</h1>
 <h3 align="center">A beginner programmer trying to make simple ideas into working code 💡➡️💻</h3>
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=wish-b&color=blue)" alt="wish-b" /> </p>
+<p align="left"> <img src="[![](https://komarev.com/ghpvc/?username=wish-b&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/wish-b)" alt="wish-b" /> </p>
 
 
 # 💫 About Me:<br>
